@@ -52,9 +52,21 @@ https://www.datacamp.com/tutorial/python-data-type-conversion
 # If-else :
 # syntax :
         if condition:
-           # statments to be executed if condition is True
+           # statements to be executed if condition is True
         else:
-           # statments to be executed if condition is Fasle
+           # statements to be executed if condition is Fasle
 
 
+# If-elif-elif-else :
+# syntax :
+        if condition1:
+           # statements to be executed if condition1 is True
+        elif condition2:
+           # statements to be executed if condition2 is True
+        elif condition3:
+           # statements to be executed if condition3 is True
+        else:
+           # statements to be executed if all the above conditions are False
 
+
+           
