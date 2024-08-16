@@ -22,7 +22,7 @@ https://www.datacamp.com/tutorial/python-data-type-conversion
 => Dict = { Key : Value }                                        
 
 # 3) CONTROL CONSTRUCTS
-               Control Constructs are used a to build/construct the flow control how ever we want
+               Control Constructs are used a to build/construct the flow of control how ever we want
 # Conditional Control Construct
 => if 
 => if - else
