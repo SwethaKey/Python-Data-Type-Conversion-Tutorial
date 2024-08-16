@@ -26,9 +26,13 @@ https://www.datacamp.com/tutorial/python-data-type-conversion
 => elif 
 => for 
 => range()    
+
+
+![image](https://github.com/user-attachments/assets/decb009f-7ee2-4a4f-ad78-bad150709c2e)
+
                                  
 
-![image](https://github.com/user-attachments/assets/960e43ea-17fb-4437-85d7-dcd6ab3fe971)
+
 
 
 
