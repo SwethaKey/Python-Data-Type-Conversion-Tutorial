@@ -8,16 +8,25 @@ https://www.datacamp.com/tutorial/python-data-type-conversion
 
 #DATA TYPE 
 
-# 1)BASIC DATA TYPE                               # 2) ADVANCE DATATYPE(Data Structures)                     # 3) CONTROL CONSTRUCTS
-=> Int and Float                                    => List = [ ]                                             => if  
-=> Boolean                                          => Tuple = ( )                                            => elif 
-=> Strings                                          => Set = { }                                              => for 
-=> Complex                                          => Dict = { Key : Value }                                 => range() 
+# 1)BASIC DATA TYPE                                                
+=> Int and Float                                                                          
+=> Boolean                                                                             
+=> Strings                                                                                 
+=> Complex                                                                    
 => NoneType
 
+# 2) ADVANCE DATATYPE(Data Structures)                    
+=> List = [ ]                                                                   
+=> Tuple = ( )                                                                            
+=> Set = { }                                                                                       
+=> Dict = { Key : Value }                                        
 
-
-
+# 3) CONTROL CONSTRUCTS
+=> if 
+=> elif 
+=> for 
+=> range()    
+                                 
 
 
 
