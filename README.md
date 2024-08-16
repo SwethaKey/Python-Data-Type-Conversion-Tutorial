@@ -6,7 +6,7 @@ Best website to study about type casting
 https://www.datacamp.com/tutorial/python-data-type-conversion
 
 
-#DATA TYPE 
+# DATA TYPE 
 
 # 1)BASIC DATA TYPE                                                
 => Int and Float                                                                          
