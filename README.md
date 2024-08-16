@@ -28,6 +28,7 @@ https://www.datacamp.com/tutorial/python-data-type-conversion
 => range()    
                                  
 
+![image](https://github.com/user-attachments/assets/960e43ea-17fb-4437-85d7-dcd6ab3fe971)
 
 
 
