@@ -49,9 +49,12 @@ https://www.datacamp.com/tutorial/python-data-type-conversion
 
 
 
-
-
-
+# If :
+# syntax :
+        if condition:
+           # statments to be executed if condition is True
+        else:
+           # statments to be executed if condition is Fasle
 
 
 
