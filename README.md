@@ -8,7 +8,7 @@ https://www.datacamp.com/tutorial/python-data-type-conversion
 
 #DATA TYPE 
 
-#1)BASIC DATA TYPE                               #2) ADVANCE DATATYPE(Data Structures)                     #3) CONTROL CONSTRUCTS
+# 1)BASIC DATA TYPE                               # 2) ADVANCE DATATYPE(Data Structures)                     # 3) CONTROL CONSTRUCTS
 => Int and Float                                    => List = [ ]                                             => if  
 => Boolean                                          => Tuple = ( )                                            => elif 
 => Strings                                          => Set = { }                                              => for 
