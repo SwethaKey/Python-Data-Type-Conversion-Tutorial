@@ -40,7 +40,12 @@ https://www.datacamp.com/tutorial/python-data-type-conversion
 ![image](https://github.com/user-attachments/assets/decb009f-7ee2-4a4f-ad78-bad150709c2e)
 
                                  
-
+ 
+# If :
+# syntax :
+          if condition:
+            # statments to be executed 
+                if condition is True
 
 
 
