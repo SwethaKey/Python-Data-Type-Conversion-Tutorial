@@ -4,3 +4,26 @@ In this Python tutorial, you'll tackle implicit and explicit data type conversio
 
 Best website to study about type casting
 https://www.datacamp.com/tutorial/python-data-type-conversion
+
+
+#DATA TYPE 
+
+#1)BASIC DATA TYPE                               #2) ADVANCE DATATYPE(Data Structures)                     #3) CONTROL CONSTRUCTS
+=> Int and Float                                    => List = [ ]                                             => if  
+=> Boolean                                          => Tuple = ( )                                            => elif 
+=> Strings                                          => Set = { }                                              => for 
+=> Complex                                          => Dict = { Key : Value }                                 => range() 
+=> NoneType
+
+
+
+
+
+
+
+
+
+
+
+
+
