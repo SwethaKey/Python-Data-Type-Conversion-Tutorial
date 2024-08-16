@@ -22,10 +22,19 @@ https://www.datacamp.com/tutorial/python-data-type-conversion
 => Dict = { Key : Value }                                        
 
 # 3) CONTROL CONSTRUCTS
+               Control Constructs are used a to build/construct the flow control how ever we want
+# Conditional Control Construct
 => if 
-=> elif 
-=> for 
-=> range()    
+=> if - else
+=> if - elif - else
+
+# Looping Control Construct
+=> for : in = not in , is = is not
+=> while    
+
+# Jumping Control Construct
+=> Continue
+=> Break
 
 
 ![image](https://github.com/user-attachments/assets/decb009f-7ee2-4a4f-ad78-bad150709c2e)
